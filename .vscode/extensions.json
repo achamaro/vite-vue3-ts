@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "bradlc.vscode-tailwindcss",
+    "vunguyentuan.vscode-postcss",
+    "silvenon.mdx"
+  ],
+  "unwantedRecommendations": ["octref.vetur", "csstools.postcss"]
+}
