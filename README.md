@@ -16,5 +16,6 @@
 ```
 cd my-app
 npx degit achamaro/vite-vue3-ts
+npx npm-check-updates -u
 npm i
 ```
